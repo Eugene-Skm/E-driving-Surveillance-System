@@ -68,7 +68,7 @@ if len(status1)>0:
     gmail_account = "y*******3@gmail.com"
     gmail_password = "*****************"
     # メールの送信先
-    mail_to = "a18190y@reitaku.jp"
+    mail_to = "a*****y@r*****u.jp"
     
     # メールデータ(MIME)の作成 ---
     subject = "教習所予約状況：予約可能枠あり"
